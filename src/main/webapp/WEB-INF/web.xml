@@ -7,7 +7,8 @@
 
   <servlet>
     <servlet-name>TestServlet</servlet-name>
-    <servlet-class>com.test.Servlet</servlet-class>
+      <display-name>TestServlet</display-name>
+    <servlet-class>com.example.test.Servlet</servlet-class>
   </servlet>
   <servlet-mapping>
     <servlet-name>TestServlet</servlet-name>
