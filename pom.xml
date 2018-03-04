@@ -31,6 +31,6 @@
 
   </dependencies>
   <build>
-    <finalName>ROOT</finalName>
+    <finalName>test</finalName>
   </build>
 </project>
